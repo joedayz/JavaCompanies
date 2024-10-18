@@ -18,6 +18,10 @@ A continuación se presenta una lista de algunas compañías que ofrecen servici
    - [Sitio web](https://www.encora.com)
    - Descripción: Encora es una empresa de desarrollo de software que ofrece servicios especializados en diversas tecnologías, entre ellas Java.
 
+5. **iTana**
+   - [Sitio web](https://www.itana.pe)
+   - Descripción: Desarrollamos soluciones de software empresarial a la medida, cloud o en modalidad SaaS, usando principalmente Java. 
+
 
 
 ## ¿Conoces más compañías?
