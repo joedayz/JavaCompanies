@@ -22,6 +22,10 @@ A continuación se presenta una lista de algunas compañías que ofrecen servici
    - [Sitio web](https://galaxybis.com/)
    - Descripción: Es una empresa integrado por un equipo de profesionales especializados en diferentes áreas tecnológicas, entre ellas Java como lenguaje de programación, entrenados para desarrollar e implementar soluciones informáticas a la medida de su empresa.
 
+6. **Baufest**
+   - [Sitio web](https://baufest.com/)
+   - Descripción: Desde nuestros centros de servicio ubicados en Seattle, Miami, Madrid, Linares, Ciudad de México, Buenos Aires, Santiago de Chile, Lima y Montevideo, brindamos soluciones innovadoras de software & IT a más de 200 empresas líderes en 50 países
+
 
 
 ## ¿Conoces más compañías?
