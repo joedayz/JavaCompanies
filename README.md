@@ -22,6 +22,10 @@ A continuación se presenta una lista de algunas compañías que ofrecen servici
    - [Sitio web](https://www.itana.pe)
    - Descripción: Desarrollamos soluciones de software empresarial a la medida, cloud o en modalidad SaaS, usando principalmente Java. 
 
+6. **Galaxy Business Information Systems**
+   - [Sitio web](https://galaxybis.com/)
+   - Descripción: Es una empresa integrado por un equipo de profesionales especializados en diferentes áreas tecnológicas, entre ellas Java como lenguaje de programación, entrenados para desarrollar e implementar soluciones informáticas a la medida de su empresa.
+
 
 
 ## ¿Conoces más compañías?
