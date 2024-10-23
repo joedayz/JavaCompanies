@@ -26,6 +26,9 @@ A continuación se presenta una lista de algunas compañías que ofrecen servici
    - [Sitio web](https://baufest.com/)
    - Descripción: Desde nuestros centros de servicio ubicados en Seattle, Miami, Madrid, Linares, Ciudad de México, Buenos Aires, Santiago de Chile, Lima y Montevideo, brindamos soluciones innovadoras de software & IT a más de 200 empresas líderes en 50 países
 
+7. **NTTData**
+   - [Sitio Web](https://pe.nttdata.com/)
+   - Descripción: Desde servicios de consultoría estratégica hasta tecnologías de vanguardia, desarrollamos experiencias que transforman organizaciones, revolucionan industrias y dan forma a una sociedad mejor para todos.
 
 
 ## ¿Conoces más compañías?
