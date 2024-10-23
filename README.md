@@ -7,8 +7,10 @@ A continuación se presenta una lista de algunas compañías que ofrecen servici
    - Descripción: Belatrix es una empresa que se especializa en el desarrollo de software, con un fuerte enfoque en Java y tecnologías relacionadas.
 
 2. **Tata Consultancy Services (TCS)**
-   - [Sitio web](https://www.tcs.com.pe)
-   - Descripción: TCS ofrece servicios de desarrollo de software a nivel mundial, incluyendo desarrollo Java, con presencia en Perú.
+   - [Sitio web](https://www.tcs.com/)
+   - Descripción: Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 56 years. Its consulting-led, cognitive powered, portfolio of business, technology and engineering services and solutions is delivered through its unique Location Independent Agile™ delivery model, recognized as a benchmark of excellence in software development.
+
+A part of the Tata group, India's largest multinational business group, TCS has over 601,000 of the world’s best-trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in the fiscal year ended March 31, 2024, and is listed on the BSE and the NSE in India. TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index.
 
 3. **Encora**
    - [Sitio web](https://www.encora.com)
