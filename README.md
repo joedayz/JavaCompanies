@@ -32,6 +32,9 @@ A part of the Tata group, India's largest multinational business group, TCS has 
    - [Sitio Web](https://pe.nttdata.com/)
    - Descripción: Desde servicios de consultoría estratégica hasta tecnologías de vanguardia, desarrollamos experiencias que transforman organizaciones, revolucionan industrias y dan forma a una sociedad mejor para todos.
 
+8. **Stefanini Group**
+   - [Sitio Web](https://stefanini.com/es)
+   - Descripción: Como proveedor de servicios independiente de la tecnología, conectamos a los clientes con un ecosistema de innovación completo para ayudarlos en el proceso de transformación digital. Stefanini proporciona soluciones tecnológicas utilizando nuestro marco de creación conjunta que lo conecta con las tecnologías precisas para abordar los obstáculos de la transformación y permitir el éxito empresarial. Creemos que la tecnología puede revolucionar una empresa y la innovación es esencial para fomentar el desarrollo y crear una ventaja competitiva.
 
 ## ¿Conoces más compañías?
 
